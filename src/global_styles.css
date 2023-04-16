@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+
+h1 {
+  color: green;
+}
+/* aplicado a todos os componentes, global  */
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+}
